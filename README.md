@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @rakibulmd
-- 👀 I love coding & coding is fun to me!
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on future web development era!
-- 📫 You can reach me on [Facebook](https://www.facebook.com/rakib245875) or 
+I'm Rakibul from Bangladesh, and I'm a front end Wev Developer experienced in HTML, CSS, Javascript & React.js. I love learning new coding languages and frameworks. Also enojoy ui, ux & design in general. I  have done some awesome projects & looking forward to doing it even more. 
 
-<!---
-rakibulmd/rakibulmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibulmd)](https://github.com/rakibulmd/github-readme-stats)
+
