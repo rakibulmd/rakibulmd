@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rakibul Islam</h1>
-<h3 align="center">I'm a passionate front end Wev Developer experienced in HTML, CSS, Javascript & React.js. I love learning new coding languages and frameworks. Also enojoy ui, ux & design in general. I  have done some awesome projects & looking forward to doing it even more. </h3>
+<h3 align="center">I'm a passionate MERN stack developer. I love learning new coding languages and frameworks. Also enojoy ui, ux & design in general. I  have done some awesome projects & looking forward to doing it even more. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
