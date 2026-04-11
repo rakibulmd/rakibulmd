@@ -1,11 +1,8 @@
 # 💫Hi, I'm Rakibul Islam
 A passionate JavaScript developer who loves coding a lot!
 
-🌱 I’m currently learning React Native, Next.js
+🌱 Next.js, React.js, Express.js, Node.js, GSAP, AI, Automation
 
-📫 Mail me at this.rakibul@gmail.com
-
-📄 Know about my experiences https://drive.google.com/file/d/1UbpwOSSJsYw9ee8GsGkwGjUygqyJXxkk/view?usp=sharing
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakibul-islam247) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19066362) 
